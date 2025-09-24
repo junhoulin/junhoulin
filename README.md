@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://temp-picture.s3.ap-northeast-1.amazonaws.com/tenor.gif" alt="Coding GIF" width="400"/>
+  <img src="https://temp-picture.s3.ap-northeast-1.amazonaws.com/tenor.gif" alt="Coding GIF"/>
 </p>
 
 ### 🎐 About Me:
