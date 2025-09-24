@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Junhou
 
----
 
 ## About Me
 
@@ -9,4 +8,3 @@
 🗄️ Databases: MSSQL · MongoDB · MySQL  
 🎓 Weekend coding instructor, passionate about sharing knowledge and growth
 
----
