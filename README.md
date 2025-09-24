@@ -14,5 +14,3 @@
 <p align="center">
 Vue · Nuxt3 · Node.js · .NET Core · n8n · AWS · MSSQL · MongoDB · MySQL · EC2 · Linux
 </p>
-
-#### ✨ Hope everyone has a wonderful day!
