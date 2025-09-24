@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Junhou
 
+![Coding GIF](https://temp-picture.s3.ap-northeast-1.amazonaws.com/tenor.gif)
 
 ## About Me
 
