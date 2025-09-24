@@ -2,15 +2,15 @@
   <img src="https://temp-picture.s3.ap-northeast-1.amazonaws.com/tenor.gif" alt="Coding GIF" width="400"/>
 </p>
 
-### 🎐About Me:
-- 👷🏻‍♀️ I'm Data Engineering working for a Lion Tech in Taiwan 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🍯 I am currently learning about various aspects of data engineering and data analysis
-- 💭 Talk to me about data analysis, python, AI & any interesting ideas
-- 💞 My hobbies include playing guitar, singing, and photography
-- 👧🏻💻 Tech I work on :
-  <p align="center">
-  Python | MYSQL | MSSQL | MongoDB | Metabase | PostgreSQL | Airflow | Gradio | Linux
-##
+### 🎐 About Me:
+- 👨‍💻 I'm a Full-stack Engineer working on Vue · Nuxt3 · Node.js · .NET Core · n8n · AI Integration  
+- 🌐 Experienced in AWS setup, EC2 architecture, and system architecture  
+- 🗄️ Databases I work with: MSSQL · MongoDB · MySQL  
+- 🎮 My hobbies: playing LOL, volleyball, diving, skiing  
+- 💼 I also take freelance projects occasionally  
+- 💭 Talk to me about web development, automation, AI, or any interesting tech ideas  
 
-#### Hope everyone has a wonderful day.✨
+### 💻 Tech I work on:
+<p align="center">
+Vue · Nuxt3 · Node.js · .NET Core · n8n · AWS · MSSQL · MongoDB · MySQL · EC2 · linux
+</p>
