@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Junhou
 
-![Coding GIF](https://temp-picture.s3.ap-northeast-1.amazonaws.com/tenor.gif)
+<p align="center">
+  <img src="https://temp-picture.s3.ap-northeast-1.amazonaws.com/tenor.gif" alt="Coding GIF" width="400"/>
+</p>
 
 ## About Me
 
@@ -8,4 +10,3 @@
 🌐 Experienced in AWS setup, EC2 architecture  
 🗄️ Databases: MSSQL · MongoDB · MySQL  
 🎓 Weekend coding instructor, passionate about sharing knowledge and growth
-
